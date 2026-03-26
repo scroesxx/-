@@ -1,5 +1,7 @@
 {
   "url": "https://fragment.com",
   "name": "Fragment",
-  "iconUrl": "https://fragment.com/img/fragment_tonconnect_icon.png" 
+  "iconUrl": "https://fragment.com/favicon.ico",
+  "termsOfUseUrl": "https://fragment.com/terms",
+  "privacyPolicyUrl": "https://fragment.com/privacy"
 }
